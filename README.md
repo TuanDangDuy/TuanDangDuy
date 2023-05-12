@@ -1,7 +1,7 @@
 
   
   <p align="center">
-  <a href="https://github.com/SamirPaul1"> <img loading="lazy" alt="Samir" src="WEBP/samir.svg"/> <img loading="lazy" alt="Samir" src="WEBP/samir.svg"/> </a>
+  <a href="https://github.com/TuanDangDuy"> <img loading="lazy" alt="Samir" src="WEBP/samir.svg"/> <img loading="lazy" alt="Samir" src="WEBP/samir.svg"/> </a>
 </p>
   
   
