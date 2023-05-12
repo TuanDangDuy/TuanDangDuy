@@ -341,8 +341,21 @@ R                        1 repo              ░░░░░░░░░░░�
 
 
 
+Developer
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ansible,bootstrap,css,html,docker,express,firebase,gcp,github,heroku,js,linux,mongodb,nodejs,postman,redis,react,redux,stackoverflow,selenium,tailwind,ts,vercel,visualstudio,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,bootstrap,css,html,express,firebase,github,heroku,js,linux,mongodb,nodejs,postman,redis,react,redux,stackoverflow,tailwind,ts,vercel,visualstudio,vite,vscode" />
   </a>
 </p>
+
+Tester
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,ansible,gcp,github,linux,postman,stackoverflow,selenium" />
+  </a>
+</p>
+
+
+
+
+
