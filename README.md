@@ -357,6 +357,10 @@ Tester
 
 <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="height: 48px; margin: 0px; width: 48px;" alt="jira&quot; Icon - Download for free – Iconduck" jsname="kn3ccd" aria-hidden="false">
 
+<p>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
 <img src="https://jmeter.apache.org/images/jmeter_square.svg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 511px; height: 120px; margin: 0px; width: 120px;" alt="Index of /images" jsname="kn3ccd" aria-hidden="false">
+</p>
+
 
 
