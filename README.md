@@ -336,3 +336,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,linkedin)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,linkedin&perline=3)](https://skillicons.dev)
+
+
