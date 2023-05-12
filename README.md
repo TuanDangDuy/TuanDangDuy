@@ -340,3 +340,9 @@ R                        1 repo              ░░░░░░░░░░░�
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,linkedin&perline=3)](https://skillicons.dev)
 
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,ansible,bootstrap,css,html,docker,express,firebase,gcp,github,heroku,js,linux,mongodb,nodejs,postman,redis,react,redux,stackoverflow,selenium,tailwind,ts,vercel,visualstudio,vite,vscode" />
+  </a>
+</p>
