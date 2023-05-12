@@ -4,12 +4,15 @@ on:
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: windows-latest
     name: generate-github-profile-3d-contrib
     steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
